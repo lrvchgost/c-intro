@@ -1,0 +1,15 @@
+/home/roman/Projects/learning/c#/projects/guitar/bin/Debug/net8.0/guitar
+/home/roman/Projects/learning/c#/projects/guitar/bin/Debug/net8.0/guitar.deps.json
+/home/roman/Projects/learning/c#/projects/guitar/bin/Debug/net8.0/guitar.runtimeconfig.json
+/home/roman/Projects/learning/c#/projects/guitar/bin/Debug/net8.0/guitar.dll
+/home/roman/Projects/learning/c#/projects/guitar/bin/Debug/net8.0/guitar.pdb
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.AssemblyInfoInputs.cache
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.AssemblyInfo.cs
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.csproj.CoreCompileInputs.cache
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.dll
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/refint/guitar.dll
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.pdb
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.genruntimeconfig.cache
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/ref/guitar.dll
+/home/roman/Projects/learning/c#/projects/guitar/obj/Debug/net8.0/guitar.sourcelink.json
